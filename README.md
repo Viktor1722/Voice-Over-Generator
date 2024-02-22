@@ -3,4 +3,4 @@
 ### Context of the project 
 
 #### This project was made durring my internship as a Software developer in a small SAAS company called Cape 
-<img src="https://www.bycape.io/shareimage.png" alt="My Project Screenshot" width="400" height="300">
+<img src="https://www.bycape.io/shareimage.png" alt="My Project Screenshot" width="300" height="300">
