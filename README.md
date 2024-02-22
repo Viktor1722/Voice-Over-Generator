@@ -8,16 +8,16 @@ This project was made durring my internship as a Software developer in a small S
 ## My task
 My task was improving the user-experince in this huge platform and more specificaly improve the productivity of it's users, this is where my project comes in hand. The voice over generator's purpous is the straignt line the voice over creation which are key part of the ads which are in a video format. The main problem that i had to solve was how can i acheve this in a way that i can save time and money not only to the user but aslo the company, after some brainstorming and research i cam to the conclusion that AI is hte perfect answere to the problem that i was trying to solve. in order to acheve the task of genreating quality voice overs i decicded that ElevenLabs was the perfect opption to the problem. 
 
-### Why i choosed ElevenLabs? 
+## Why i choosed ElevenLabs? 
 I choose this models since it was a all around package that combines really quality voice over audio, customization, voice cloning as well as greate API documentation. 
 
-### How did i acheve the task? 
+## How did i acheve the task? 
 
 Since the company was using certaion technology stack for the achivment of their goals i had to comply with their choise. 
 
-For the Front-end i used React as a JavaScript framework. 
+* **React.js** For the Front-end i used React as a JavaScript framework. 
 
-For styling i used SCSS as well as Material UI for the components aslo Cape's custome components. 
+* For styling i used SCSS as well as Material UI for the components aslo Cape's custome components. 
 
-And for Back-end i used Typscript. Unfortunetly i can't show any code because of comapany policeies, however i can show demo videos of how the tool works. 
+* And for Back-end i used Typscript. Unfortunetly i can't show any code because of comapany policeies, however i can show demo videos of how the tool works. 
 
