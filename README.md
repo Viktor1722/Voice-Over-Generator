@@ -15,9 +15,13 @@ I choose this models since it was a all around package that combines really qual
 
 Since the company was using certaion technology stack for the achivment of their goals i had to comply with their choise. 
 
-* **React.js** For the Front-end i used React as a JavaScript framework. 
+* **React.js:** In order to visualize the idea in to working product i used React.js 
 
-* For styling i used SCSS as well as Material UI for the components aslo Cape's custome components. 
+* **ScSS:** I used ScSS is order to translate the design in to a nicely arranged UI
 
-* And for Back-end i used Typscript. Unfortunetly i can't show any code because of comapany policeies, however i can show demo videos of how the tool works. 
+* **Material UI:** Used for component library i also used some custom components that Cape's developers have already made
+  
+* **TypeScript:** Back-end framework for handling the API calls and requests
+
+Unfortunetly i can't show any code because of comapany policeies, however i can show demo videos of how the tool works. 
 
