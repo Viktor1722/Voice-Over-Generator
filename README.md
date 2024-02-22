@@ -10,6 +10,13 @@ My task was improving the user-experince in this huge platform and more specific
 Why i choosed ElevenLabs you mihgt ask? 
 I choose this models since it was a all around package that combines really quality voice over audio, customization, voice cloning as well as greate API documentation. 
 
+How did i acheve the task? 
 
+Since the company was using certaion technology stack for the achivment of their goals i had to comply with their choise. 
 
+For the Front-end i used React as a JavaScript framework. 
+
+For styling i used SCSS as well as Material UI for the components aslo Cape's custome components. 
+
+And for Back-end i used Typscript. Unfortunetly i can't show any code because of comapany policeies, however i can show demo videos of how the tool works. 
 
