@@ -4,4 +4,4 @@
 
 #### This project was made durring my internship as a Software developer in a small SAAS company called Cape 
 ![Cape logo](https://www.bycape.io/shareimage.png)
-<img src="[https://example.com/path/to/image.png](https://www.bycape.io/shareimage.png)" alt="My Project Screenshot" width="200" height="100">
+<img src="https://www.bycape.io/shareimage.png" alt="My Project Screenshot" width="200" height="100">
