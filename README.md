@@ -29,3 +29,6 @@ Unfortunately I can't show any code because of company policies, however i can s
 
 ![Alt text for your video](https://www.youtube.com/watch?v=EwVVExC35cs)
 
+[![Video Name](https://example.com/link_to_thumbnail.jpg)](https://www.youtube.com/watch?v=EwVVExC35cs)
+
+
