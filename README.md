@@ -25,10 +25,7 @@ Since the company was using certain technology stack for the achievement of thei
 
 Unfortunately I can't show any code because of company policies, however i can show demo videos of how the tool works. 
 
-[![Alt text for your video](image-link.jpg)](https://www.youtube.com/watch?v=EwVVExC35cs)
+Uploading Screen Recording 2024-01-28 at 13.56.40 (online-video-cutter.com) (2).mp4…
 
-![Alt text for your video](https://www.youtube.com/watch?v=EwVVExC35cs)
-
-[![Video Name](https://example.com/link_to_thumbnail.jpg)](https://www.youtube.com/watch?v=EwVVExC35cs)
 
 
