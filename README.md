@@ -1,5 +1,4 @@
 
-https://github.com/Viktor1722/Voice-Over-Generator/assets/102257718/9b1f23d0-4557-4928-80a4-7653e300051a
 # Welcome to the Voice-Over-Generator
 
 ## Context of the project 
@@ -29,5 +28,7 @@ Unfortunately I can't show any code because of company policies, however i can s
 
 
 
-Uploading Screen Recording 2024-01-28 at 13.56.40 (online-video-cutter.com) (2).mp4
+[Uploading Screen Recording 2024-01-28 at 13.56.40 (online-video-cutter.com) (2).mp4](https://github.com/Viktor1722/Voice-Over-Generator/assets/102257718/9b1f23d0-4557-4928-80a4-7653e300051a
+)https://github.com/Viktor1722/Voice-Over-Generator/assets/102257718/9b1f23d0-4557-4928-80a4-7653e300051a
+
 
