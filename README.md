@@ -24,8 +24,8 @@ Since the company was using certain technology stack for the achievement of thei
 * **TypeScript:** Back-end framework for handling the API calls and requests
 
 Unfortunately I can't show any code because of company policies, however i can show demo videos of how the tool works. 
+Uploading Screen Recording 2024-01-28 at 13.56.40 (online-video-cutter.com) (2).mp4
 
-Uploading Screen Recording 2024-01-28 at 13.56.40 (online-video-cutter.com) (2).mp4…
 
 
 
