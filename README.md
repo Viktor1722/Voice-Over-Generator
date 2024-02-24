@@ -31,9 +31,5 @@ Unfortunately I can't show any code because of company policies, however i can s
 
   <source src="https://www.youtube.com/watch?v=EwVVExC35cs" type="video/mp4" />
 
-  Download the
-  <a href="/media/cc0-videos/flower.webm">WEBM</a>
-  or
-  <a href="/media/cc0-videos/flower.mp4">MP4</a>
-  video.
+
 </video>
