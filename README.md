@@ -25,11 +25,4 @@ Since the company was using certain technology stack for the achievement of thei
 
 Unfortunately I can't show any code because of company policies, however i can show demo videos of how the tool works. 
 
-![Voice Over video](https://www.youtube.com/watch?v=EwVVExC35cs)
-<video controls width="250">
-  <source src="https://www.youtube.com/watch?v=EwVVExC35cs" type="video/webm" />
-
-  <source src="https://www.youtube.com/watch?v=EwVVExC35cs" type="video/mp4" />
-
-
-</video>
+[![Alt text for your video](image-link.jpg)](http://video-url.mp4)
