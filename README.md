@@ -25,4 +25,4 @@ Since the company was using certain technology stack for the achievement of thei
 
 Unfortunately I can't show any code because of company policies, however i can show demo videos of how the tool works. 
 
-[![Alt text for your video](image-link.jpg)](http://video-url.mp4)
+[![Alt text for your video](image-link.jpg)](https://www.youtube.com/watch?v=EwVVExC35cs)
