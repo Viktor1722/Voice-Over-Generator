@@ -3,7 +3,7 @@
 
 ## Context of the project 
 
-<img src="https://www.bycape.io/shareimage.png" alt="My Project Screenshot" width="550" height="300">
+<img src="https://www.bycape.io/shareimage.png" alt="My Project Screenshot" >
 This project was made during my internship as a Software developer in a small SaaS company called Cape. The companies main focus is on creating a marketing platform which helps clients start launch and monitor their marketing campaigns.
 
 ## My task
